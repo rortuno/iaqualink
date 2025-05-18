@@ -37,6 +37,7 @@ vacuum:
 - Polaris - VRX iQ+
 - CNX 30 iQ
 - CNX 40 IQ
+- CNX 50 IQ
 - CNX 4090 iQ
 - OV 5490 IQ
 - RF 5600 IQ
